@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/arant/OneDrive/Documentos/7mo%20semestre/TRADING/NUEVO/mlruns/785294038967389970/models/m-60fa6e32f0d7465da9e77bb80f6bbc0b/artifacts
+creation_timestamp: 1760670826350
+experiment_id: '785294038967389970'
+last_updated_timestamp: 1760670964644
+model_id: m-60fa6e32f0d7465da9e77bb80f6bbc0b
+model_type: null
+name: model
+source_run_id: bae4534dfc194e6a90d4801673bdd224
+status: 2
+status_message: null

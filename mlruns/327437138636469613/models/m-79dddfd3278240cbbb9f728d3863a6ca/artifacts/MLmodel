@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/arant/OneDrive/Documentos/7mo%20semestre/TRADING/mlruns/327437138636469613/models/m-79dddfd3278240cbbb9f728d3863a6ca/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.13.7
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.4.0
+model_id: m-79dddfd3278240cbbb9f728d3863a6ca
+model_size_bytes: 2048132
+model_uuid: m-79dddfd3278240cbbb9f728d3863a6ca
+prompts: null
+run_id: ed09822cfc524013b3223cf11aaa3db1
+utc_time_created: '2025-10-15 03:43:31.753939'

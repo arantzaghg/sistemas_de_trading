@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/arant/OneDrive/Documentos/7mo%20semestre/TRADING/mlruns/327437138636469613/85f14683810444278f2db1a8bcedcafa/artifacts
+end_time: 1760499670579
+entry_point_name: ''
+experiment_id: '327437138636469613'
+lifecycle_stage: active
+run_id: 85f14683810444278f2db1a8bcedcafa
+run_name: abundant-trout-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760499670481
+status: 4
+tags: []
+user_id: arant

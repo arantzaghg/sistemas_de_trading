@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/arant/OneDrive/Documentos/7mo%20semestre/TRADING/NUEVO/mlruns/785294038967389970/bae4534dfc194e6a90d4801673bdd224/artifacts
+end_time: 1760670965430
+entry_point_name: ''
+experiment_id: '785294038967389970'
+lifecycle_stage: active
+run_id: bae4534dfc194e6a90d4801673bdd224
+run_name: persistent-squid-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760670826069
+status: 3
+tags: []
+user_id: arant

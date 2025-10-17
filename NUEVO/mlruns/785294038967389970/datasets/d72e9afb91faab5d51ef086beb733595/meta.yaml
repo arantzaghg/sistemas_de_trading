@@ -1,0 +1,12 @@
+digest: be50abed
+name: dataset
+profile: '{"features_shape": [50000, 32, 32, 3], "features_size": 153600000, "features_nbytes":
+  1228800000, "targets_shape": [50000, 1], "targets_size": 50000, "targets_nbytes":
+  50000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 32, 32, 3]}}]", "targets": "[{\"type\":
+  \"tensor\", \"tensor-spec\": {\"dtype\": \"uint8\", \"shape\": [-1, 1]}}]"}}'
+source: '{"tags": {"mlflow.user": "arant", "mlflow.source.name": "c:/Users/arant/OneDrive/Documentos/7mo
+  semestre/TRADING/NUEVO/main.py", "mlflow.source.type": "LOCAL", "mlflow.source.git.commit":
+  "3090d9d0d53b7b5af4a021f503d863fc6d57ca91"}}'
+source_type: code

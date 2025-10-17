@@ -1,0 +1,30 @@
+artifact_path: file:///C:/Users/arant/OneDrive/Documentos/7mo%20semestre/TRADING/NUEVO/mlruns/785294038967389970/models/m-60fa6e32f0d7465da9e77bb80f6bbc0b/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.13.7
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.5.0
+model_id: m-60fa6e32f0d7465da9e77bb80f6bbc0b
+model_size_bytes: 2047704
+model_uuid: m-60fa6e32f0d7465da9e77bb80f6bbc0b
+prompts: null
+run_id: bae4534dfc194e6a90d4801673bdd224
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 32,
+    32, 3]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    10]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-17 03:15:53.883878'

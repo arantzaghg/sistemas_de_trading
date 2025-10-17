@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/arant/OneDrive/Documentos/7mo%20semestre/TRADING/NUEVO/mlruns/785294038967389970/edde0da1a085424ea116b074711a311e/artifacts
+end_time: 1760670826050
+entry_point_name: ''
+experiment_id: '785294038967389970'
+lifecycle_stage: active
+run_id: edde0da1a085424ea116b074711a311e
+run_name: beautiful-elk-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760670450558
+status: 3
+tags: []
+user_id: arant
